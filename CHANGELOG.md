@@ -1,3 +1,4 @@
+- 2026-11-23: weekly housekeeping: link check and minor doc edits
 # [0.5.0](https://github.com/jsappme/node-binance-trader/compare/0.4.1...0.5.0) (2021-05-19)
 
 
